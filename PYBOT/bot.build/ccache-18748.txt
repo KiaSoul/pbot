@@ -1,0 +1,405 @@
+[2022-04-19T15:22:27.831426 19424] === CCACHE 4.3 STARTED =========================================
+[2022-04-19T15:22:27.831445 7232 ] === CCACHE 4.3 STARTED =========================================
+[2022-04-19T15:22:27.831434 4284 ] Config: (default) absolute_paths_in_stderr = false
+[2022-04-19T15:22:27.831434 4284 ] Config: (default) base_dir = 
+[2022-04-19T15:22:27.831434 4284 ] Config: (environment) cache_dir = C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-04-19T15:22:27.831434 4284 ] Config: (default) compiler = 
+[2022-04-19T15:22:27.831434 4284 ] Config: (default) compiler_check = mtime
+[2022-04-19T15:22:27.831434 4284 ] Config: (default) compiler_type = auto
+[2022-04-19T15:22:27.831434 4284 ] Config: (default) compression = true
+[2022-04-19T15:22:27.831434 4284 ] Config: (default) compression_level = 0
+[2022-04-19T15:22:27.831434 4284 ] Config: (default) cpp_extension = 
+[2022-04-19T15:22:27.831434 4284 ] Config: (default) debug = false
+[2022-04-19T15:22:27.831434 4284 ] Config: (default) debug_dir = 
+[2022-04-19T15:22:27.831434 4284 ] Config: (default) depend_mode = false
+[2022-04-19T15:22:27.831434 4284 ] Config: (default) direct_mode = true
+[2022-04-19T15:22:27.831434 4284 ] Config: (default) disable = false
+[2022-04-19T15:22:27.831434 4284 ] Config: (default) extra_files_to_hash = 
+[2022-04-19T15:22:27.831434 4284 ] Config: (default) file_clone = false
+[2022-04-19T15:22:27.831434 4284 ] Config: (default) hard_link = false
+[2022-04-19T15:22:27.831434 4284 ] Config: (default) hash_dir = true
+[2022-04-19T15:22:27.831434 4284 ] Config: (default) ignore_headers_in_manifest = 
+[2022-04-19T15:22:27.831434 4284 ] Config: (default) ignore_options = 
+[2022-04-19T15:22:27.831434 4284 ] Config: (default) inode_cache = false
+[2022-04-19T15:22:27.831434 4284 ] Config: (default) keep_comments_cpp = false
+[2022-04-19T15:22:27.831434 4284 ] Config: (default) limit_multiple = 0.8
+[2022-04-19T15:22:27.831434 4284 ] Config: (environment) log_file = D:\DownloadingFolder\Downloads\Desktop\PYBOT\bot.build\ccache-18748.txt
+[2022-04-19T15:22:27.831434 4284 ] Config: (default) max_files = 0
+[2022-04-19T15:22:27.831434 4284 ] Config: (default) max_size = 5.0G
+[2022-04-19T15:22:27.831434 4284 ] Config: (default) path = 
+[2022-04-19T15:22:27.831434 4284 ] Config: (default) pch_external_checksum = false
+[2022-04-19T15:22:27.831434 4284 ] Config: (default) prefix_command = 
+[2022-04-19T15:22:27.831434 4284 ] Config: (default) prefix_command_cpp = 
+[2022-04-19T15:22:27.831434 4284 ] Config: (default) read_only = false
+[2022-04-19T15:22:27.831434 4284 ] Config: (default) read_only_direct = false
+[2022-04-19T15:22:27.831434 4284 ] Config: (default) recache = false
+[2022-04-19T15:22:27.831434 4284 ] Config: (default) run_second_cpp = true
+[2022-04-19T15:22:27.831434 4284 ] Config: (default) sloppiness = 
+[2022-04-19T15:22:27.831434 4284 ] Config: (default) stats = true
+[2022-04-19T15:22:27.831434 4284 ] Config: (default) temporary_dir = C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-04-19T15:22:27.831434 4284 ] Config: (default) umask = 
+[2022-04-19T15:22:27.834155 4284 ] Command line: C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\ccache.exe C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\gcc.exe -o __loader.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE -D_NUITKA_ONEFILE_TEMP -D_NUITKA_WINMAIN_ENTRY_POINT -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=166 -D_NUITKA_EXE -IC:\Users\Vexpl\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\Vexpl\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\Vexpl\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src __loader.c
+rc module.pywin32_system32.c
+7232 ] Config: (default) absolute_paths_in_stderr = false
+[2022-04-19T15:22:27.831445 7232 ] Config: (default) base_dir = 
+[2022-04-19T15:22:27.831445 7232 ] Config: (environment) cache_dir = C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-04-19T15:22:27.831445 7232 ] Config: (default) compiler = 
+[2022-04-19T15:22:27.831445 7232 ] Config: (default) compiler_check = mtime
+[2022-04-19T15:22:27.831445 7232 ] Config: (default) compiler_type = auto
+[2022-04-19T15:22:27.831445 7232 ] Config: (default) compression = true
+[2022-04-19T15:22:27.831445 7232 ] Config: (default) compression_level = 0
+[2022-04-19T15:22:27.831445 7232 ] Config: (default) cpp_extension = 
+[2022-04-19T15:22:27.831445 7232 ] Config: (default) debug = false
+[2022-04-19T15:22:27.831445 7232 ] Config: (default) debug_dir = 
+[2022-04-19T15:22:27.831445 7232 ] Config: (default) depend_mode = false
+[2022-04-19T15:22:27.831445 7232 ] Config: (default) direct_mode = true
+[2022-04-19T15:22:27.831445 7232 ] Config: (default) disable = false
+[2022-04-19T15:22:27.831445 7232 ] Config: (default) extra_files_to_hash = 
+[2022-04-19T15:22:27.831445 7232 ] Config: (default) file_clone = false
+[2022-04-19T15:22:27.831445 7232 ] Config: (default) hard_link = false
+[2022-04-19T15:22:27.831445 7232 ] Config: (default) hash_dir = true
+[2022-04-19T15:22:27.831445 7232 ] Config: (default) ignore_headers_in_manifest = 
+[2022-04-19T15:22:27.831445 7232 ] Config: (default) ignore_options = 
+[2022-04-19T15:22:27.831445 7232 ] Config: (default) inode_cache = false
+[2022-04-19T15:22:27.831445 7232 ] Config: (default) keep_comments_cpp = false
+[2022-04-19T15:22:27.831445 7232 ] Config: (default) limit_multiple = 0.8
+[2022-04-19T15:22:27.831445 7232 ] Config: (environment) log_file = D:\DownloadingFolder\Downloads\Desktop\PYBOT\bot.build\ccache-18748.txt
+[2022-04-19T15:22:27.831445 7232 ] Config: (default) max_files = 0
+[2022-04-19T15:22:27.831445 7232 ] Config: (default) max_size = 5.0G
+[2022-04-19T15:22:27.831445 7232 ] Config: (default) path = 
+[2022-04-19T15:22:27.831445 7232 ] Config: (default) pch_external_checksum = false
+[2022-04-19T15:22:27.831445 7232 ] Config: (default) prefix_command = 
+[2022-04-19T15:22:27.831445 7232 ] Config: (default) prefix_command_cpp = 
+[2022-04-19T15:22:27.831445 7232 ] Config: (default) read_only = false
+[2022-04-19T15:22:27.831445 7232 ] Config: (default) read_only_direct = false
+[2022-04-19T15:22:27.831445 7232 ] Config: (default) recache = false
+[2022-04-19T15:22:27.831445 7232 ] Config: (default) run_second_cpp = true
+[2022-04-19T15:22:27.831445 7232 ] Config: (default) sloppiness = 
+[2022-04-19T15:22:27.831445 7232 ] Config: (default) stats = true
+[2022-04-19T15:22:27.831445 7232 ] Config: (default) temporary_dir = C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-04-19T15:22:27.831445 7232 ] Config: (default) umask = 
+[2022-04-19T15:22:27.834232 7232 ] Command line: C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\ccache.exe C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\gcc.exe -o __constants.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE -D_NUITKA_ONEFILE_TEMP -D_NUITKA_WINMAIN_ENTRY_POINT -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=166 -D_NUITKA_EXE -IC:\Users\Vexpl\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\Vexpl\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\Vexpl\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src __constants.c
+[2022-04-19T15:22:27.835258 15988] Hostname: unknown
+[2022-04-19T15:22:27.835296 7232 ] Working directory: [2022-04-19T15:22:27.835309 4284 ] Working directory: D:/DownloadingFolder/Downloads/Desktop/PYBOT/bot.build
+[2022-04-19T15:22:27.835382 19424] Compiler type: gcc
+:/DownloadingFolder/Downloads/Desktop/PYBOT/bot.build
+[2022-04-19T15:22:27.835390 4284 ] Compiler type: gcc
+[2022-04-19T15:22:27.835398 17548] Compiler type: gcc
+[2022-04-19T15:22:27.835412 23120] Compiler type: gcc
+[2022-04-19T15:22:27.836101 17548] Source file: static_src\CompiledCellType.c
+[2022-04-19T15:22:27.836118 17548] Object file: static_src\CompiledCellType.o
+[2022-04-19T15:22:27.836196 23120] Source file: static_src\MainProgram.c
+[2022-04-19T15:22:27.836215 23120] Object file: static_src\MainProgram.o
+[2022-04-19T15:22:27.836309 19424] Source file: module.pywin32_bootstrap.c[2022-04-19T15:22:27.836331 4284 ] Object file: __loader.o
+22-04-19T15:22:27.836332 21244] Object file: module.pywin32_system32.o
+[2022-04-19T15:22:27.836355 15988] Source file: __helpers.c
+[2022-04-19T15:22:27.836363 19424] Object file: module.pywin32_boot[2022-04-[2022-04-19T15:22:27.836372 15988] Object file: __helpers.o
+[2022-04-19T15:22:27.836456 7232 ] Source file: __constants.c
+[2022-04-19T15:22:27.836475 7232 ] Object file: __constants.o
+[2022-04-19T15:22:27.836559 21244] Trying direct lookup
+[2022-04-19T15:22:27.836589 15988] Trying direct lookup
+[2022-04-19T15:22:27.836633 4284 ] Trying direct lookup
+[2022-04-19T15:22:27.836650 19424] Trying direct lookup
+[2022-04-19T15:22:27.836753 7232 ] Trying direct lookup
+[2022-04-19T15:22:27.837630 17548] Looking for result name in C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/8/e9r6v1epvpq983fsa4ta152ak1jmoa2M
+[2022-04-19T15:22:27.838115 15988] Looking for result name in C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/3/8147jastqb555uppt6rp9d3c28jj9g0M
+[2022-04-19T15:22:27.838135 23120] Looking for result name in C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/5/57drivqep9d0dlmrk516ulhnk9amnt0M
+[2022-04-19T15:22:27.838395 19424] Looking for result name in C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/4/5/d38sprfrb0n4hf6abjrlvogvorvmqm4M
+[2022-04-19T15:22:27.838520 21244] Looking for result name in C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/e/fdfmi0osrhgfppr308tt8j6rvfiln4aM
+[2022-04-19T15:22:27.838654 4284 ] Looking for result name in C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/f/2buk3svqpql4svelkmrlq7urbdu6r4cM
+[2022-04-19T15:22:27.838665 7232 ] Looking for result name in C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/7/98vhm76nicug3e4hvve1k5gjqogepooM
+[2022-04-19T15:22:27.838797 21388] No manifest with name d251788l06mg7b43kbm1qegggbvi7d63s in the cache
+[2022-04-19T15:22:27.849532 21388] Running preprocessor
+[2022-04-19T15:22:28.269245 4284 ] Got result name from manifest
+[2022-04-19T15:22:28.270142 4284 ] Reading result C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/b/386ndq7cd7t0m64khs7k9tugoo0s3lkR
+[2022-04-19T15:22:28.283369 4284 ] Reading embedded entry #0 .o (42568 bytes)
+[2022-04-19T15:22:28.283409 4284 ] Writing to __loader.o
+[2022-04-19T15:22:28.284182 4284 ] Succeeded getting cached result
+[2022-04-19T15:22:28.284263 4284 ] Result: cache hit (direct)
+[2022-04-19T15:22:28.284829 4284 ] Acquired lock C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/b/stats.lock
+[2022-04-19T15:22:28.295908 4284 ] Releasing lock C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/b/stats.lock
+[2022-04-19T15:22:28.815130 17548] Got result name from manifest
+[2022-04-19T15:22:28.815165 19424] Got result name from manifest
+[2022-04-19T15:22:28.815221 15988] Got result name from manifest
+[2022-04-19T15:22:28.815265 21244] Got result name from manifest
+[2022-04-19T15:22:28.815786 17548] Reading result C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/7/77sovsdj1kvbmf2cac8uul57977bks2R
+[2022-04-19T15:22:28.815989 19424] Reading result C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/6/6610esj0r3jvji78iop4akf2ctetcq2R
+[2022-04-19T15:22:28.816044 15988] Reading result C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/1/63e6vvlnl9hhs1b4a5hsa073g0uq9guR
+[2022-04-19T15:22:28.816275 7232 ] Reading result C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/4/cesa7sp59v63hpgvlhl11jtit2sos06R
+[2022-04-19T15:22:28.816560 21244] Reading result C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/f/8b5o0dm8ffl1nrv6p0rie6emi0fh5bqR
+[2022-04-19T15:22:28.827049 15988] Reading embedded entry #0 .o (466 bytes)
+[2022-04-19T15:22:28.827109 15988] Writing to __helpers.o
+[2022-04-19T15:22:28.827115 7232 ] Reading embedded entry #0 .o (2735 bytes)
+
+[2022-04-19T15:22:28.827165 19424] Writing to module.pywin32_bootstrap.o
+s)
+[2022-04-19T15:22:28.827198 21244] Writing to module.pywin32_system32.o
+[2022-04-19T15:22:28.827442 17548] Reading embedded entry #0 .o (5235 bytes)
+[2022-04-19T15:22:28.827482 17548] Writing to static_src\CompiledCellType.o
+[2022-04-19T15:22:28.829439 7232 ] Succeeded getting cached result
+[2022-04-19T15:22:28.829828 7232 ] Result: cache hit (direct)
+[2022-04-19T15:22:28.830089 15988] Succeeded getting cached result
+[2022-04-19T15:22:28.830183 15988] Result: cache hit (direct)
+[2022-04-19T15:22:28.830718 7232 ] Acquired lock C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/4/stats.lock
+[2022-04-19T15:22:28.830753 17548] Succeeded getting cached result
+[2022-04-19T15:22:28.830818 17548] Result: cache hit (direct)
+[2022-04-19T15:22:28.831445 19424] Succeeded getting cached result
+[2022-04-19T15:22:28.831556 19424] Result: cache hit (direct)
+[2022-04-19T15:22:28.831625 17548] Acquired lock C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/7/stats.lock
+[2022-04-19T15:22:28.832438 15988] Acquired lock C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/1/stats.lock
+[2022-04-19T15:22:28.832557 19424] Acquired lock C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/6/stats.lock
+[2022-04-19T15:22:28.836935 21244] Succeeded getting cached result
+[2022-04-19T15:22:28.837007 21244] Result: cache hit (direct)
+[2022-04-19T15:22:28.837779 21244] Acquired lock C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/f/stats.lock
+[2022-04-19T15:22:28.947470 21244] Releasing lock C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/f/stats.lock
+[2022-04-19T15:22:28.986080 15988] Releasing lock C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/1/stats.lock
+[2022-04-19T15:22:28.995079 7232 ] Releasing lock C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/4/stats.lock
+[2022-04-19T15:22:29.068360 17548] Releasing lock C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/7/stats.lock
+[2022-04-19T15:22:29.080844 19424] Releasing lock C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/6/stats.lock
+[2022-04-19T15:22:29.344284 21388] Got result name from preprocessor
+[2022-04-19T15:22:29.345571 21388] No result with name e18fjfuiehhdou9mm14m927p63v11m3t2 in the cache
+[2022-04-19T15:22:29.345656 21388] Running real compiler
+[2022-04-19T15:22:29.363457 23120] Got result name from manifest
+[2022-04-19T15:22:29.364210 23120] Reading result C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/5/90kpfrfpdm53g0ohe61l3k16ing5mccR
+[2022-04-19T15:22:29.373318 23120] Reading embedded entry #0 .o (7267 bytes)
+[2022-04-19T15:22:29.373356 23120] Writing to static_src\MainProgram.o
+[2022-04-19T15:22:29.374097 23120] Succeeded getting cached result
+[2022-04-19T15:22:29.374140 23120] Result: cache hit (direct)
+[2022-04-19T15:22:29.374524 23120] Acquired lock C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/5/stats.lock
+[2022-04-19T15:22:29.383653 23120] Releasing lock C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/5/stats.lock
+[2022-04-19T15:22:29.488405 23228] === CCACHE 4.3 STARTED =========================================
+[2022-04-19T15:22:29.488405 23228] Config: (default) absolute_paths_in_stderr = false
+[2022-04-19T15:22:29.488405 23228] Config: (default) base_dir = 
+[2022-04-19T15:22:29.488405 23228] Config: (environment) cache_dir = C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-04-19T15:22:29.488405 23228] Config: (default) compiler = 
+[2022-04-19T15:22:29.488405 23228] Config: (default) compiler_check = mtime
+[2022-04-19T15:22:29.488405 23228] Config: (default) compiler_type = auto
+[2022-04-19T15:22:29.488405 23228] Config: (default) compression = true
+[2022-04-19T15:22:29.488405 23228] Config: (default) compression_level = 0
+[2022-04-19T15:22:29.488405 23228] Config: (default) cpp_extension = 
+[2022-04-19T15:22:29.488405 23228] Config: (default) debug = false
+[2022-04-19T15:22:29.488405 23228] Config: (default) debug_dir = 
+[2022-04-19T15:22:29.488405 23228] Config: (default) depend_mode = false
+[2022-04-19T15:22:29.488405 23228] Config: (default) direct_mode = true
+[2022-04-19T15:22:29.488405 23228] Config: (default) disable = false
+[2022-04-19T15:22:29.488405 23228] Config: (default) extra_files_to_hash = 
+[2022-04-19T15:22:29.488405 23228] Config: (default) file_clone = false
+[2022-04-19T15:22:29.488405 23228] Config: (default) hard_link = false
+[2022-04-19T15:22:29.488405 23228] Config: (default) hash_dir = true
+[2022-04-19T15:22:29.488405 23228] Config: (default) ignore_headers_in_manifest = 
+[2022-04-19T15:22:29.488405 23228] Config: (default) ignore_options = 
+[2022-04-19T15:22:29.488405 23228] Config: (default) inode_cache = false
+[2022-04-19T15:22:29.488405 23228] Config: (default) keep_comments_cpp = false
+[2022-04-19T15:22:29.488405 23228] Config: (default) limit_multiple = 0.8
+[2022-04-19T15:22:29.488405 23228] Config: (environment) log_file = D:\DownloadingFolder\Downloads\Desktop\PYBOT\bot.build\ccache-18748.txt
+[2022-04-19T15:22:29.488405 23228] Config: (default) max_files = 0
+[2022-04-19T15:22:29.488405 23228] Config: (default) max_size = 5.0G
+[2022-04-19T15:22:29.488405 23228] Config: (default) path = 
+[2022-04-19T15:22:29.488405 23228] Config: (default) pch_external_checksum = false
+[2022-04-19T15:22:29.488405 23228] Config: (default) prefix_command = 
+[2022-04-19T15:22:29.488405 23228] Config: (default) prefix_command_cpp = 
+[2022-04-19T15:22:29.488405 23228] Config: (default) read_only = false
+[2022-04-19T15:22:29.488405 23228] Config: (default) read_only_direct = false
+[2022-04-19T15:22:29.488405 23228] Config: (default) recache = false
+[2022-04-19T15:22:29.488405 23228] Config: (default) run_second_cpp = true
+[2022-04-19T15:22:29.488405 23228] Config: (default) sloppiness = 
+[2022-04-19T15:22:29.488405 23228] Config: (default) stats = true
+[2022-04-19T15:22:29.488405 23228] Config: (default) temporary_dir = C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-04-19T15:22:29.488405 23228] Config: (default) umask = 
+[2022-04-19T15:22:29.489932 23228] Command line: C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\ccache.exe C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\gcc.exe -o static_src\CompiledFunctionType.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE -D_NUITKA_ONEFILE_TEMP -D_NUITKA_WINMAIN_ENTRY_POINT -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=166 -D_NUITKA_EXE -IC:\Users\Vexpl\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\Vexpl\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\Vexpl\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledFunctionType.c
+[2022-04-19T15:22:29.490002 23228] Hostname: unknown
+[2022-04-19T15:22:29.490023 23228] Working directory: D:/DownloadingFolder/Downloads/Desktop/PYBOT/bot.build
+[2022-04-19T15:22:29.490038 23228] Compiler type: gcc
+[2022-04-19T15:22:29.490811 23228] Source file: static_src\CompiledFunctionType.c
+[2022-04-19T15:22:29.490849 23228] Object file: static_src\CompiledFunctionType.o
+[2022-04-19T15:22:29.491068 23228] Trying direct lookup
+[2022-04-19T15:22:29.492369 23228] Looking for result name in C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/b/21nd28kd4nt2vc1pitcggd221d9jr6mM
+[2022-04-19T15:22:29.628517 23176] === CCACHE 4.3 STARTED =========================================
+[2022-04-19T15:22:29.628517 23176] Config: (default) absolute_paths_in_stderr = false
+[2022-04-19T15:22:29.628517 23176] Config: (default) base_dir = 
+[2022-04-19T15:22:29.628517 23176] Config: (environment) cache_dir = C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-04-19T15:22:29.628517 23176] Config: (default) compiler = 
+[2022-04-19T15:22:29.628517 23176] Config: (default) compiler_check = mtime
+[2022-04-19T15:22:29.628517 23176] Config: (default) compiler_type = auto
+[2022-04-19T15:22:29.628517 23176] Config: (default) compression = true
+[2022-04-19T15:22:29.628517 23176] Config: (default) compression_level = 0
+[2022-04-19T15:22:29.628517 23176] Config: (default) cpp_extension = 
+[2022-04-19T15:22:29.628517 23176] Config: (default) debug = false
+[2022-04-19T15:22:29.628517 23176] Config: (default) debug_dir = 
+[2022-04-19T15:22:29.628517 23176] Config: (default) depend_mode = false
+[2022-04-19T15:22:29.628517 23176] Config: (default) direct_mode = true
+[2022-04-19T15:22:29.628517 23176] Config: (default) disable = false
+[2022-04-19T15:22:29.628517 23176] Config: (default) extra_files_to_hash = 
+[2022-04-19T15:22:29.628517 23176] Config: (default) file_clone = false
+[2022-04-19T15:22:29.628517 23176] Config: (default) hard_link = false
+[2022-04-19T15:22:29.628517 23176] Config: (default) hash_dir = true
+[2022-04-19T15:22:29.628517 23176] Config: (default) ignore_headers_in_manifest = 
+[2022-04-19T15:22:29.628517 23176] Config: (default) ignore_options = 
+[2022-04-19T15:22:29.628517 23176] Config: (default) inode_cache = false
+[2022-04-19T15:22:29.628517 23176] Config: (default) keep_comments_cpp = false
+[2022-04-19T15:22:29.628517 23176] Config: (default) limit_multiple = 0.8
+[2022-04-19T15:22:29.628517 23176] Config: (environment) log_file = D:\DownloadingFolder\Downloads\Desktop\PYBOT\bot.build\ccache-18748.txt
+[2022-04-19T15:22:29.628517 23176] Config: (default) max_files = 0
+[2022-04-19T15:22:29.628517 23176] Config: (default) max_size = 5.0G
+[2022-04-19T15:22:29.628517 23176] Config: (default) path = 
+[2022-04-19T15:22:29.628517 23176] Config: (default) pch_external_checksum = false
+[2022-04-19T15:22:29.628517 23176] Config: (default) prefix_command = 
+[2022-04-19T15:22:29.628517 23176] Config: (default) prefix_command_cpp = 
+[2022-04-19T15:22:29.628517 23176] Config: (default) read_only = false
+[2022-04-19T15:22:29.628517 23176] Config: (default) read_only_direct = false
+[2022-04-19T15:22:29.628517 23176] Config: (default) recache = false
+[2022-04-19T15:22:29.628517 23176] Config: (default) run_second_cpp = true
+[2022-04-19T15:22:29.628517 23176] Config: (default) sloppiness = 
+[2022-04-19T15:22:29.628517 23176] Config: (default) stats = true
+[2022-04-19T15:22:29.628517 23176] Config: (default) temporary_dir = C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-04-19T15:22:29.628517 23176] Config: (default) umask = 
+[2022-04-19T15:22:29.630397 23176] Command line: C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\ccache.exe C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\gcc.exe -o static_src\CompiledGeneratorType.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE -D_NUITKA_ONEFILE_TEMP -D_NUITKA_WINMAIN_ENTRY_POINT -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=166 -D_NUITKA_EXE -IC:\Users\Vexpl\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\Vexpl\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\Vexpl\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledGeneratorType.c
+[2022-04-19T15:22:29.630542 23176] Hostname: unknown
+[2022-04-19T15:22:29.630573 23176] Working directory: D:/DownloadingFolder/Downloads/Desktop/PYBOT/bot.build
+[2022-04-19T15:22:29.630590 23176] Compiler type: gcc
+[2022-04-19T15:22:29.631943 23176] Source file: static_src\CompiledGeneratorType.c
+[2022-04-19T15:22:29.631989 23176] Object file: static_src\CompiledGeneratorType.o
+[2022-04-19T15:22:29.632171 23176] Trying direct lookup
+[2022-04-19T15:22:29.633572 23176] Looking for result name in C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/8/f6bgels2trldovr6tc88qdp7gekvuc0M
+[2022-04-19T15:22:29.638679 25232] === CCACHE 4.3 STARTED =========================================
+[2022-04-19T15:22:29.638679 25232] Config: (default) absolute_paths_in_stderr = false
+[2022-04-19T15:22:29.638679 25232] Config: (default) base_dir = 
+[2022-04-19T15:22:29.638679 25232] Config: (environment) cache_dir = C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-04-19T15:22:29.638679 25232] Config: (default) compiler = 
+[2022-04-19T15:22:29.638679 25232] Config: (default) compiler_check = mtime
+[2022-04-19T15:22:29.638679 25232] Config: (default) compiler_type = auto
+[2022-04-19T15:22:29.638679 25232] Config: (default) compression = true
+[2022-04-19T15:22:29.638679 25232] Config: (default) compression_level = 0
+[2022-04-19T15:22:29.638679 25232] Config: (default) cpp_extension = 
+[2022-04-19T15:22:29.638679 25232] Config: (default) debug = false
+[2022-04-19T15:22:29.638679 25232] Config: (default) debug_dir = 
+[2022-04-19T15:22:29.638679 25232] Config: (default) depend_mode = false
+[2022-04-19T15:22:29.638679 25232] Config: (default) direct_mode = true
+[2022-04-19T15:22:29.638679 25232] Config: (default) disable = false
+[2022-04-19T15:22:29.638679 25232] Config: (default) extra_files_to_hash = 
+[2022-04-19T15:22:29.638679 25232] Config: (default) file_clone = false
+[2022-04-19T15:22:29.638679 25232] Config: (default) hard_link = false
+[2022-04-19T15:22:29.638679 25232] Config: (default) hash_dir = true
+[2022-04-19T15:22:29.638679 25232] Config: (default) ignore_headers_in_manifest = 
+[2022-04-19T15:22:29.638679 25232] Config: (default) ignore_options = 
+[2022-04-19T15:22:29.638679 25232] Config: (default) inode_cache = false
+[2022-04-19T15:22:29.638679 25232] Config: (default) keep_comments_cpp = false
+[2022-04-19T15:22:29.638679 25232] Config: (default) limit_multiple = 0.8
+[2022-04-19T15:22:29.638679 25232] Config: (environment) log_file = D:\DownloadingFolder\Downloads\Desktop\PYBOT\bot.build\ccache-18748.txt
+[2022-04-19T15:22:29.638679 25232] Config: (default) max_files = 0
+[2022-04-19T15:22:29.638679 25232] Config: (default) max_size = 5.0G
+[2022-04-19T15:22:29.638679 25232] Config: (default) path = 
+[2022-04-19T15:22:29.638679 25232] Config: (default) pch_external_checksum = false
+[2022-04-19T15:22:29.638679 25232] Config: (default) prefix_command = 
+[2022-04-19T15:22:29.638679 25232] Config: (default) prefix_command_cpp = 
+[2022-04-19T15:22:29.638679 25232] Config: (default) read_only = false
+[2022-04-19T15:22:29.638679 25232] Config: (default) read_only_direct = false
+[2022-04-19T15:22:29.638679 25232] Config: (default) recache = false
+[2022-04-19T15:22:29.638679 25232] Config: (default) run_second_cpp = true
+[2022-04-19T15:22:29.638679 25232] Config: (default) sloppiness = 
+[2022-04-19T15:22:29.638679 25232] Config: (default) stats = true
+[2022-04-19T15:22:29.638679 25232] Config: (default) temporary_dir = C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-04-19T15:22:29.638679 25232] Config: (default) umask = 
+[2022-04-19T15:22:29.640369 25232] Command line: C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\ccache.exe C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\gcc.exe -o static_src\InspectPatcher.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE -D_NUITKA_ONEFILE_TEMP -D_NUITKA_WINMAIN_ENTRY_POINT -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=166 -D_NUITKA_EXE -IC:\Users\Vexpl\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\Vexpl\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\Vexpl\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src static_src\InspectPatcher.c
+[2022-04-19T15:22:29.640525 25232] Hostname: unknown
+[2022-04-19T15:22:29.640555 25232] Working directory: D:/DownloadingFolder/Downloads/Desktop/PYBOT/bot.build
+[2022-04-19T15:22:29.640578 25232] Compiler type: gcc
+[2022-04-19T15:22:29.641158 25232] Source file: static_src\InspectPatcher.c
+[2022-04-19T15:22:29.641190 25232] Object file: static_src\InspectPatcher.o
+[2022-04-19T15:22:29.641373 25232] Trying direct lookup
+[2022-04-19T15:22:29.642439 25232] Looking for result name in C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/8/72jr2hu45ut9ckel60bn4bkcoes2io4M
+[2022-04-19T15:22:29.687130 16896] === CCACHE 4.3 STARTED =========================================
+[2022-04-19T15:22:29.687130 16896] Config: (default) absolute_paths_in_stderr = false
+[2022-04-19T15:22:29.687130 16896] Config: (default) base_dir = 
+[2022-04-19T15:22:29.687130 16896] Config: (environment) cache_dir = C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2022-04-19T15:22:29.687130 16896] Config: (default) compiler = 
+[2022-04-19T15:22:29.687130 16896] Config: (default) compiler_check = mtime
+[2022-04-19T15:22:29.687130 16896] Config: (default) compiler_type = auto
+[2022-04-19T15:22:29.687130 16896] Config: (default) compression = true
+[2022-04-19T15:22:29.687130 16896] Config: (default) compression_level = 0
+[2022-04-19T15:22:29.687130 16896] Config: (default) cpp_extension = 
+[2022-04-19T15:22:29.687130 16896] Config: (default) debug = false
+[2022-04-19T15:22:29.687130 16896] Config: (default) debug_dir = 
+[2022-04-19T15:22:29.687130 16896] Config: (default) depend_mode = false
+[2022-04-19T15:22:29.687130 16896] Config: (default) direct_mode = true
+[2022-04-19T15:22:29.687130 16896] Config: (default) disable = false
+[2022-04-19T15:22:29.687130 16896] Config: (default) extra_files_to_hash = 
+[2022-04-19T15:22:29.687130 16896] Config: (default) file_clone = false
+[2022-04-19T15:22:29.687130 16896] Config: (default) hard_link = false
+[2022-04-19T15:22:29.687130 16896] Config: (default) hash_dir = true
+[2022-04-19T15:22:29.687130 16896] Config: (default) ignore_headers_in_manifest = 
+[2022-04-19T15:22:29.687130 16896] Config: (default) ignore_options = 
+[2022-04-19T15:22:29.687130 16896] Config: (default) inode_cache = false
+[2022-04-19T15:22:29.687130 16896] Config: (default) keep_comments_cpp = false
+[2022-04-19T15:22:29.687130 16896] Config: (default) limit_multiple = 0.8
+[2022-04-19T15:22:29.687130 16896] Config: (environment) log_file = D:\DownloadingFolder\Downloads\Desktop\PYBOT\bot.build\ccache-18748.txt
+[2022-04-19T15:22:29.687130 16896] Config: (default) max_files = 0
+[2022-04-19T15:22:29.687130 16896] Config: (default) max_size = 5.0G
+[2022-04-19T15:22:29.687130 16896] Config: (default) path = 
+[2022-04-19T15:22:29.687130 16896] Config: (default) pch_external_checksum = false
+[2022-04-19T15:22:29.687130 16896] Config: (default) prefix_command = 
+[2022-04-19T15:22:29.687130 16896] Config: (default) prefix_command_cpp = 
+[2022-04-19T15:22:29.687130 16896] Config: (default) read_only = false
+[2022-04-19T15:22:29.687130 16896] Config: (default) read_only_direct = false
+[2022-04-19T15:22:29.687130 16896] Config: (default) recache = false
+[2022-04-19T15:22:29.687130 16896] Config: (default) run_second_cpp = true
+[2022-04-19T15:22:29.687130 16896] Config: (default) sloppiness = 
+[2022-04-19T15:22:29.687130 16896] Config: (default) stats = true
+[2022-04-19T15:22:29.687130 16896] Config: (default) temporary_dir = C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp
+[2022-04-19T15:22:29.687130 16896] Config: (default) umask = 
+[2022-04-19T15:22:29.688834 16896] Command line: C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\ccache.exe C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\gcc\x86_64\11.2.0-12.0.1-9.0.0-r1\mingw64\bin\gcc.exe -o static_src\MetaPathBasedLoader.o -c -std=c11 -fvisibility=hidden -fwrapv -pipe -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -Wno-misleading-indentation -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -D_WIN32_WINNT=0x0501 -D_NUITKA_STANDALONE -D_NUITKA_ONEFILE -D_NUITKA_ONEFILE_TEMP -D_NUITKA_WINMAIN_ENTRY_POINT -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=166 -D_NUITKA_EXE -IC:\Users\Vexpl\AppData\Local\Programs\Python\Python39\include -I. -IC:\Users\Vexpl\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\include -IC:\Users\Vexpl\AppData\Local\Programs\Python\Python39\lib\SITE-P~1\nuitka\build\static_src static_src\MetaPathBasedLoader.c
+[2022-04-19T15:22:29.688960 16896] Hostname: unknown
+[2022-04-19T15:22:29.688987 16896] Working directory: D:/DownloadingFolder/Downloads/Desktop/PYBOT/bot.build
+[2022-04-19T15:22:29.689004 16896] Compiler type: gcc
+[2022-04-19T15:22:29.689551 16896] Source file: static_src\MetaPathBasedLoader.c
+[2022-04-19T15:22:29.689580 16896] Object file: static_src\MetaPathBasedLoader.o
+[2022-04-19T15:22:29.689773 16896] Trying direct lookup
+[2022-04-19T15:22:29.691027 16896] Looking for result name in C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/3/8/baa6uiqomqftv8fmege8jfkroh1ip7iM
+[2022-04-19T15:22:29.706014 23228] Got result name from manifest
+[2022-04-19T15:22:29.707125 23228] Reading result C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/0/a92algacg9qq7fdt13hu32uet814gc2R
+[2022-04-19T15:22:29.742876 23228] Reading embedded entry #0 .o (821680 bytes)
+[2022-04-19T15:22:29.742938 23228] Writing to static_src\CompiledFunctionType.o
+[2022-04-19T15:22:29.754878 23228] Succeeded getting cached result
+[2022-04-19T15:22:29.754944 23228] Result: cache hit (direct)
+[2022-04-19T15:22:29.755610 23228] Acquired lock C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/0/stats.lock
+[2022-04-19T15:22:29.772733 23176] Got result name from manifest
+[2022-04-19T15:22:29.772795 23228] Releasing lock C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/0/stats.lock
+[2022-04-19T15:22:29.774564 23176] Reading result C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/f/52sdc3g3gt1qndf27aqed156vnvak76R
+[2022-04-19T15:22:29.786502 23176] Reading embedded entry #0 .o (99590 bytes)
+[2022-04-19T15:22:29.786577 23176] Writing to static_src\CompiledGeneratorType.o
+[2022-04-19T15:22:29.788501 23176] Succeeded getting cached result
+[2022-04-19T15:22:29.788569 23176] Result: cache hit (direct)
+[2022-04-19T15:22:29.789159 23176] Acquired lock C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/f/stats.lock
+[2022-04-19T15:22:29.790823 25232] Got result name from manifest
+[2022-04-19T15:22:29.795609 25232] Reading result C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/7/0e4jnm6e1bggp2e5b76uv8sukbuds36R
+[2022-04-19T15:22:29.799132 23176] Releasing lock C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/f/stats.lock
+[2022-04-19T15:22:29.806568 25232] Reading embedded entry #0 .o (10086 bytes)
+[2022-04-19T15:22:29.806643 25232] Writing to static_src\InspectPatcher.o
+[2022-04-19T15:22:29.807562 25232] Succeeded getting cached result
+[2022-04-19T15:22:29.807636 25232] Result: cache hit (direct)
+[2022-04-19T15:22:29.808204 25232] Acquired lock C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/7/stats.lock
+[2022-04-19T15:22:29.813217 16896] Got result name from manifest
+[2022-04-19T15:22:29.813903 25232] Releasing lock C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/7/stats.lock
+[2022-04-19T15:22:29.814696 16896] Reading result C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/9/80m4h77vldvr8rqnjb2aedl9lojlht6R
+[2022-04-19T15:22:29.830799 16896] Reading embedded entry #0 .o (23687 bytes)
+[2022-04-19T15:22:29.830854 16896] Writing to static_src\MetaPathBasedLoader.o
+[2022-04-19T15:22:29.832076 16896] Succeeded getting cached result
+[2022-04-19T15:22:29.832148 16896] Result: cache hit (direct)
+[2022-04-19T15:22:29.832759 16896] Acquired lock C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/9/stats.lock
+[2022-04-19T15:22:29.837759 16896] Releasing lock C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/9/stats.lock
+[2022-04-19T15:22:34.823350 21388] Using default compression level 1
+[2022-04-19T15:22:34.824352 21388] Storing result module.__main__.o
+[2022-04-19T15:22:34.824420 21388] Storing embedded file #0 .o (133761 bytes) from module.__main__.o
+[2022-04-19T15:22:34.835476 21388] Stored in cache: C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/1/8fjfuiehhdou9mm14m927p63v11m3t2R
+[2022-04-19T15:22:34.836087 21388] Adding result name to C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/2/51788l06mg7b43kbm1qegggbvi7d63sM
+[2022-04-19T15:22:34.855120 21388] Using default compression level 1
+[2022-04-19T15:22:34.857146 21388] Result: cache miss
+[2022-04-19T15:22:34.857399 21388] Acquired lock C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2022-04-19T15:22:34.881097 21388] Releasing lock C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2022-04-19T15:22:34.881783 21388] Acquired lock C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2022-04-19T15:22:34.892024 21388] Releasing lock C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2022-04-19T15:22:34.892329 21388] Unlink C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stderr.yr0SfE
+[2022-04-19T15:22:34.892476 21388] Unlink C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.stdout.vzVjkU
+[2022-04-19T15:22:34.892614 21388] Unlink C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stderr.WPoSnp
+[2022-04-19T15:22:34.892834 21388] Unlink C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.tcSzqd.i
+[2022-04-19T15:22:34.893597 21388] Unlink C:\Users\Vexpl\AppData\Local\Nuitka\Nuitka\Cache\ccache/tmp/tmp.cpp_stdout.tcSzqd
